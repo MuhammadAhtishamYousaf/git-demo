@@ -11,3 +11,4 @@ git status : To check the current code status
 
 git add <filename> : add new or changed files in your working directory to the git staging area.
 git commit -m "some message" : it is the record of change
+git push origin main : To upload local repo content to remote repo
